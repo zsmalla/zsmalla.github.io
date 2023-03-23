@@ -24,8 +24,8 @@ description              : "jisu's records"
 url                      : "https://zsmalla.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/zsmalla/zsmalla.github.io"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+teaser                   : "/assets/imgs/profile/profile.jpg"
+# logo                     : "/assets/imgs/profile/profile.jpg"
 masthead_title           : "원래 백수가 과로사하는겨"
 words_per_minute         : 200
 comments:
@@ -143,8 +143,8 @@ footer:
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
+    - label: "resume"
+      icon: "fab fa-fw fa-file-o"
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
@@ -287,5 +287,5 @@ defaults:
       author_profile: true
       read_time: true
       comments: # true
-      share: true
-      related: true
+      share: false
+      related: false
