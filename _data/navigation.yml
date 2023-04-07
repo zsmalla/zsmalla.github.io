@@ -6,6 +6,13 @@ main:
     url: /projects/
   - title: "Blog"
     url: /categories/
+  - title: "Study-log"
+    url: /Study-log/
+  
+
+categories:
+  - title: "TIL"
+    url : /categories/TIL
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
